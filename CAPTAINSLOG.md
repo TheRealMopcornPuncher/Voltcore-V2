@@ -15,7 +15,7 @@ Image dump: https://drive.google.com/drive/folders/1CzOQAVNjcckL8AMjF_pA2h7jqu7b
 
 Fusion 360 Project Link: N/a
 
-Total calculated hours: 11 hours
+Total calculated hours: 13 hours
 
 ---
 # Day 29
@@ -167,8 +167,63 @@ There's only really one new size, M2, but we were running low on leftovers from 
 
 ! Migrating logs to a new file to distinguish work between the V1 and V2 phases of Voltcore. !
 
+Just created a new repository to store all new work regarding this second phase to Voltcore since the first attempt I made to submit the project to highway was declined. I'm hoping they'll see it's a new project, but we'll cross that bridge when we get there.
+
+Anyways, back to actual work. I need to finish adding the hardware into the electronics mount and create a mount for the raspberry pi zero w.
+
+![Fully implemented mainboard mounting assembly](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2c823c481b381826f3b127588f9da1540480c7f4_image.png)
+A little bit of hardware later and the mainboard is good to go, now for the pi.
+
+This mount is very simple, considering the nearly 100% flat base of the Pi Zero.
+
+![Raspberry Pi Zero 2 W Mount](https://hc-cdn.hel1.your-objectstorage.com/s/v3/98bb1899ad19e45898dc508397237e8bd1befc29_image.png)
+
+Just some inset slots for the hex nuts and the right thickness to match our screw length.
+
+The pi itself will need to feed power from (most likely) the mainboard, so either ANOTHER mount for that, or we find some other way to efficiently modify our existing solutions to incorporate one.
+
+I'm losing speed for now, so I'm going to take a break and come back to work on that.
+
+It seems that the SKR PICO thoughtfully has an already implemented connector dedicated for connecting a raspberry pi, so additional hardware is not necessary. The mount should suffice as is, given a slight depression on the bottom to account for any bulge leftover from solder jointing.
+
+![Fully assembled Pi mount](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e5c7ef3a8c2d77b5f2f4c8c304d545538d7c04be_image.png)
 
 
-Total time elapsed: 1 hrs
+Now with all of the modules fully assembled onto the upper frame:
+![Upper frame assembly](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2fdcda1148223f3ef6fd1638abf7c9a4013f185c_image.png)
+It's coming along pretty nicely at this point, but obviously there's still the gantry to take care of, and storage for the battery.
+
+I think that the smartest location for storing the battery is, again, whichever solution utilizes the vertical profile of the printer, since we're still trying to keep this machine relatively portable.
+
+To store the battery, we'll need some kind of lock-in under carriage to slot it into. The carriage would ideally be made of aluminum so that the heat generated from the battery wouldn't cause any kind of deformation. An additional fan or heatsink may also be necessary to deploying the device considering the potential for extreme heat generation from the battery.
+
+Moving to other modules, the gantry requires a minor adjustment to the tuning mechanism. It took me a bit to remember how I designed it to function, considering I have little to no organizational or proper journaling skills, but I quickly remembered the sliding carriage I designed to tension via a screw (very similar to the tensioning device employed on the Ender 3 V3 SE).
+
+Anyways, I ended up extending the amount of space it can tension by about 3mm.
+
+I'm thinking that stabilizers will ALSO need to be deployed for the linear rods, which we'll ALSO need to buy new 300mm long versions for to accompany the extended height of this upgrade. I will add this to the bill of materials, now.
+
+Although I haven't done a complete calculation and clearance simulation for the extended height, if I had to estimate the improvement, I'd say it's fairly substantial. Our previously calculated (and measured) build volume clocked in at 100x100x60 (x, y, z - mm). Those numbers are, for obvious reasons, dissatisfactory. The height improvement from this upgrade should be able to double the height, and then some, hopefully increasing to about somewhere <150 mm.
+
+Regarding a task list for tomorrow, I recommend the following:
+- Add updated gantry to Upgrade Major Modules folder
+- Fix motors and brackets to the base
+- Model stabilizers for the linear rods to fix at the top of the upper frame
+- Add linear rods
+- Begin finalizing battery storage solution
+- Brainstorm additional upgrades
+
+Hats off to you two tomorrow, good luck & goodnight for now ^^
+
+Total time elapsed: 3 hrs
+
+---
+
+# Day 34
+### June 5th
+
+
+
+Total time elapsed: 0 hrs
 
 ---
