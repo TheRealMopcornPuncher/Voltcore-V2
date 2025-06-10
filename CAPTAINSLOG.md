@@ -11,16 +11,14 @@ created_at: "2025-05-24"
 
 ---
 
-### Project info:
+Project info:
 Made by: @Amaya and @Jonathan G 
 Repository link: https://github.com/TheRealMopcornPuncher/VoltCore-V2
 
-BOM: https://docs.google.com/spreadsheets/d/1q4xtd6th8_cM6Qn8iwp2R4_8qS0gYeFDji75B9E_PQI/edit?usp=sharing
+BOM: [here](https://docs.google.com/spreadsheets/d/1q4xtd6th8_cM6Qn8iwp2R4_8qS0gYeFDji75B9E_PQI/edit?usp=sharing) 
 ! Sections separated by black cells, lower section represents BOM for this project. !
 
-Image dump: https://drive.google.com/drive/folders/1CzOQAVNjcckL8AMjF_pA2h7jqu7bDclE?usp=sharing
-
-Fusion 360 Project Link: N/a
+Fusion 360 Project Link: [here](https://a360.co/3HCNV2j)
 
 Total calculated hours: 19 hours
 
