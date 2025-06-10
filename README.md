@@ -10,6 +10,19 @@ NOTES: JOURNAL.md is a file required by Highway's submission policy (I believe i
 
 ---
 
+# Images
+
+### Voltcore Voltage Regulator (Jonathan)
+![Voltage Regulator PCB](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a33e2f25f2253e9198963682a06892cc19f41281_image.png)
+
+### Voltcore Version 1 (Collaborative)
+![First version of voltcore](https://hc-cdn.hel1.your-objectstorage.com/s/v3/1938e6dfb0fd1e251fb0e90e52e3a4a60d97b48b_image.png)
+
+### Voltcore Version 2 (Collaborative)
+![Second version of voltcore](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e7ed24782be683a56ceb965632b9206521e7cefd_image.png)
+
+---
+
 STL / Print guide:
 
 In progress
