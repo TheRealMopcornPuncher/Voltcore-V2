@@ -6,6 +6,8 @@ oversights variation of Voltcore: The battery-powered 3d printer.
 
 Enjoy!
 
+NOTES: JOURNAL.md is a file required by Highway's submission policy (I believe it is used for metadata). Actual logging/journaling contents are located in the file 'CAPTAINSLOG.md'
+
 ---
 
 STL / Print guide:
