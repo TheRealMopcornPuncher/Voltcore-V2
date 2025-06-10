@@ -12,6 +12,8 @@ File titled 'VoltCore Buck Converter v7_2025-06-10.zip' is a collection of every
 
 File titled 'bom_voltcorev2.csv' is a downloadable list containing the parts needed in this project. (Bill of materials)
 
+File titled 'bom_voltcorev1.csv' is an archived list containing the parts needed for version 1 of this project. (Outdated bill of materials)
+
 ---
 
 # Images
