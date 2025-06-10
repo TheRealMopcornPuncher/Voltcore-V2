@@ -1,3 +1,8 @@
+title: Voltcore_V2
+author: "Amaya Allison & Jonathan Gallo"
+description: "New and improved battery-powered 3d printer!"
+created_at: "2025-05-24"
+
 **This project seeks to heavily improve and upgrade the Voltcore 3d printer with a height extension, new motherboard, klipper modifications, and new electronics.**
 # Project phase 2 (To be treated as a new project)
 ## PERMISSION GRANTED BY ALEX REN TO CONTINUE WORKING ON THIS PROJECT FOR HIGHWAY.
