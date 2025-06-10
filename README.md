@@ -20,12 +20,12 @@ A bill of materials has also been added here outside of the .csv file for conven
 
 | Item # | Description                             | Vendor                | Part Number | Qty | Cost ($) | Purchase Link                                                                                  |
 |--------|-----------------------------------------|------------------------|-------------|-----|----------|------------------------------------------------------------------------------------------------|
-| 1      | 2020 Aluminum Extrusions (300mm)        | Amazon - VICHSAMWY     |             | 1   | $16.59   | [Link](https://www.amazon.com/European-Standard-Anodized-Aluminum-Extrusion/dp/B099N5HLM1)     |
-|        2 | BTT SKR PICO V1 (motherboard)                          | Amazon - BTT          |           nan |     1 | $35.99     | https://www.amazon.com/BIGTREETECH-Controller-Raspberry-Printing-Motherboard/dp/B09MYKL9MP |
-|        3 | Metric Screw Assortment                                | Amazon - Kadrick      |           nan |     1 | $16.99     | https://www.amazon.com/Kadrick-Assortment-M2-M3-M4/dp/B0CQJZCC9T                           |
-|        4 | Raspberry Pi Zero 2 W                                  | Amazon - Raspberry Pi |           nan |     1 | $24.99     | https://www.amazon.com/Raspberry-Zero-Bluetooth-RPi-2W/dp/B09LH5SBPS                       |
-|        5 | Linear Rods (300mm) (Count of 2)                       | Amazon - Vigorous     |           nan |     1 | $7.99      | https://www.amazon.com/8mm-300mm-Vigorous-Hardened-Printer/dp/B0CG37KS93                   |
-|        6 | PLA 1kg (White)                                        | Amazon - Overture     |           nan |     1 | $18.99     | https://www.amazon.com/OVERTURE-Filament-Printer-Dimensional-Accuracy/dp/B089S1HB8K        |
-|        7 | (ONLY ONE OF EACH) 300mm Lead Screw and Lead Screw Nut | Amazon - VICHSAMWY    |           nan |     1 | $9.99      | https://www.amazon.com/dp/B0BWYH5ZKG                                                       |
-|        8 | 608RS Ball bearings                                    | Amazon - SHKI         |           nan |     1 | $6.99      | https://www.amazon.com/SHKI/dp/B09PKD8QZZ                                                  |
-|        9 | Custom PCB - Voltage Regulator                         | PCBWAY                |           nan |     1 | est. $30   | https://www.pcbway.com/                                   
+| 1      | 2020 Aluminum Extrusions (300mm)                       | Amazon - VICHSAMWY    |           | 1   | $16.59   | [Link](https://www.amazon.com/European-Standard-Anodized-Aluminum-Extrusion/dp/B099N5HLM1) |
+| 2      | BTT SKR PICO V1 (motherboard)                          | Amazon - BTT          |           | 1   | $35.99   | [Link](https://www.amazon.com/BIGTREETECH-Controller-Raspberry-Printing-Motherboard/dp/B09MYKL9MP) |
+| 3      | Metric Screw Assortment                                | Amazon - Kadrick      |           | 1   | $16.99   | [Link](https://www.amazon.com/Kadrick-Assortment-M2-M3-M4/dp/B0CQJZCC9T) |
+| 4      | Raspberry Pi Zero 2 W                                  | Amazon - Raspberry Pi |           | 1   | $24.99   | [Link](https://www.amazon.com/Raspberry-Zero-Bluetooth-RPi-2W/dp/B09LH5SBPS) |
+| 5      | Linear Rods (300mm) (Count of 2)                       | Amazon - Vigorous     |           | 1   | $7.99    | [Link](https://www.amazon.com/8mm-300mm-Vigorous-Hardened-Printer/dp/B0CG37KS93) |
+| 6      | PLA 1kg (White)                                        | Amazon - Overture     |           | 1   | $18.99   | [Link](https://www.amazon.com/OVERTURE-Filament-Printer-Dimensional-Accuracy/dp/B089S1HB8K) |
+| 7      | (ONLY ONE OF EACH) 300mm Lead Screw and Lead Screw Nut | Amazon - VICHSAMWY    |           | 1   | $9.99    | [Link](https://www.amazon.com/dp/B0BWYH5ZKG) |
+| 8      | 608RS Ball bearings                                    | Amazon - SHKI         |           | 1   | $6.99    | [Link](https://www.amazon.com/SHKI/dp/B09PKD8QZZ) |
+| 9      | Custom PCB - Voltage Regulator                         | PCBWAY                |           | 1   | est. $30 | [Link](https://www.pcbway.com/) |
