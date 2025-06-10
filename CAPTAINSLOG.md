@@ -15,7 +15,7 @@ Image dump: https://drive.google.com/drive/folders/1CzOQAVNjcckL8AMjF_pA2h7jqu7b
 
 Fusion 360 Project Link: N/a
 
-Total calculated hours: 13 hours
+Total calculated hours: 19 hours
 
 ---
 # Day 29
@@ -267,9 +267,9 @@ Now with some chunky brackets to secure the upper frame to the bottom frame:
 
 A major design issue with the first variation of the Z-axis lead screw placement was the distance between the closest lM8UU linear bearing, which was some arbitrary value such as 25.82... mm which for obvious reasons is not something you'd ever want from an extremely non-tolerable piece of hardware such as the lead screw.
 
-I fixed it quickly with a few modifications to the gantry and am now making modifications to the stepper placement in the mounting bracket file.
+I fixed it quickly with a few modifications to the gantry and am now making modifications to stepper placement in the mounting bracket file.
 
-The following components are necessary to complete the Z axis assembly:
+The following components are necessary to completing the Z axis assembly:
 - Stabilizers at the top of the frame
 - Previous heavy tensioning clamps (for linear rods)
 - Z stepper bracket
@@ -278,8 +278,13 @@ The following components are necessary to complete the Z axis assembly:
 And here's the resulting device. At this stage, we can consider the printer finished.
 ![Finished assembly](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4292dc5746373bb3103195b32c4e09e7cc7f984_image.png)
 
+Ah.. wait no. I forgot the extruder. The original design had severe clearance issues with that and would literally snap the filament, so we're going to have to change that immediately.
 
+After a quick clearance check we look significantly more promising! Here's our final assembly:
+![Final final assembly for real this time](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e7ed24782be683a56ceb965632b9206521e7cefd_image.png)
 
-Total time elapsed: 3 hrs
+And with that, our work is done. At least in CAD TT.
+
+Total time elapsed: 4 hrs
 
 ---
