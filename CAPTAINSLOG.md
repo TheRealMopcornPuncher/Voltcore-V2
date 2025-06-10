@@ -220,10 +220,66 @@ Total time elapsed: 3 hrs
 ---
 
 # Day 34
-### June 5th
+### June 6th
+
+Today will be dedicated mostly to the battery carriage at the base of the printer.
+
+I started by first researching any potential hardware that I could use to mount it without worrying about the heat of the battery causing deformation to surrounding components, but was ultimately unsuccessful. 
+
+I've now moved on to attempting to finalize the assembly of the bottom frame so that I can further modify it with the battery carriage.
+
+I finished assembling the gantry and the bottom frame up to where we need to be working today:
+
+![Bottom frame](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4fda06c3275309c96adce0d253e59576c14e54b_image.png)
+
+![Gantry](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ea7e5bb1f430129212334c86aa8175daff1cbfcc_image.png)
+
+Now for the carriage. I'm realizing the battery will add a substantial amount of height to the overall profile of the device, but that's okay, it's better to utilize vertical space than any other part of the printer.
+
+My colleague ended up suggesting an interesting idea for cooling, so I've passed on the responsibility of designing the carriage to him for the time being.
+
+Anndd a little bit later he came up with this! Not bad at all.
+![Battery Carriage](https://hc-cdn.hel1.your-objectstorage.com/s/v3/68391837500c392975fb4398d19f9415a576b7bc_image.png)
+
+With the battery carriage done, we are pretty much go for a full assembly in CAD.
+
+The only problem left to resolve is our improvements to the Z axis.
+
+To assist in the major height increase, we'll overhaul the entirety of our current Z axis implementation. Work starts tomorrow
+
+Total time elapsed: 2 hrs
+
+---
+
+# Day 35
+### June 10th
+
+I've upgraded my work regimen to 11 hours and 15 minutes per day to accommodate the slack I've had on this project these past few days. I began with modifying the electronics mounting to also hold the raspberry pi, and improve our voltage regulator's spot on the board.
+
+![Finished electronics mount](https://hc-cdn.hel1.your-objectstorage.com/s/v3/a47713ac3e4a219304592f84837f91b4f1e00259_image.png)
+
+It's a bit messy, but it works.
+
+Moving on, we'll finish jointing what we have together, then move onto revamping the entire Z axis design from V1.
+
+Now with some chunky brackets to secure the upper frame to the bottom frame:
+![Partial assembly](https://hc-cdn.hel1.your-objectstorage.com/s/v3/d134c27e16be272bc6632d540e8b7642a6f7c6c8_image.png)
+
+A major design issue with the first variation of the Z-axis lead screw placement was the distance between the closest lM8UU linear bearing, which was some arbitrary value such as 25.82... mm which for obvious reasons is not something you'd ever want from an extremely non-tolerable piece of hardware such as the lead screw.
+
+I fixed it quickly with a few modifications to the gantry and am now making modifications to the stepper placement in the mounting bracket file.
+
+The following components are necessary to complete the Z axis assembly:
+- Stabilizers at the top of the frame
+- Previous heavy tensioning clamps (for linear rods)
+- Z stepper bracket
+- Stabilizer at the bottom of the frame using a ball bearing
+
+And here's the resulting device. At this stage, we can consider the printer finished.
+![Finished assembly](https://hc-cdn.hel1.your-objectstorage.com/s/v3/e4292dc5746373bb3103195b32c4e09e7cc7f984_image.png)
 
 
 
-Total time elapsed: 0 hrs
+Total time elapsed: 3 hrs
 
 ---
