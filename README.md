@@ -20,7 +20,7 @@ A bill of materials has also been added here outside of the .csv file for conven
 
 | Item # | Description                             | Vendor                | Part Number | Qty | Cost ($) | Purchase Link                                                                                  |
 |--------|-----------------------------------------|------------------------|-------------|-----|----------|------------------------------------------------------------------------------------------------|
-| 1      | 2020 Aluminum Extrusions (300mm)        | Amazon - VICHSAMWY     |             | 1   | $15.99   | [Link](https://www.amazon.com/European-Standard-Anodized-Aluminum-Extrusion/dp/B09JSP8WMV)     |
+| 1      | 2020 Aluminum Extrusions (300mm)        | Amazon - VICHSAMWY     |             | 1   | $16.59   | [Link](https://www.amazon.com/European-Standard-Anodized-Aluminum-Extrusion/dp/B099N5HLM1)     |
 | 2      | BTT SKR PICO V1 (motherboard)           | Amazon - BTT           |             | 1   | $35.99   | [Link](https://www.amazon.com/BIGTREETECH-Controller-Raspberry-Printing-Motherboard/dp/B09MYKL9MP) |
 | 3      | Metric Screw Assortment                 | Amazon - Kadrick       |             | 1   | $16.99   | [Link](https://www.amazon.com/Kadrick-Assortment-M2-M3-M4/dp/B0CQJZCC9T)                       |
 | 4      | Raspberry Pi Zero 2 W                   | Amazon - Raspberry Pi  |             | 1   | $24.99   | [Link](https://www.amazon.com/Raspberry-Zero-Bluetooth-RPi-2W/dp/B09LH5SBPS)                   |
