@@ -31,7 +31,12 @@ File titled 'bom_voltcorev1.csv' is an archived list containing the parts needed
 
 STL / Print guide:
 
-In progress
+All files are contained in the zip file in the directory "STLS", and every file should be printed once, except the following:
+- FULL_Heavy_Angle_Bracket (2x)
+- FULL_Small_Angle_Bracket (14x)
+- FULL_Linear_Rod_Stabilizer (2x)
+- LOWERFRAME_Y_Axis_Belt_Clamp (2x)
+- PRINTHEAD_X_Belt_Tensioner (2x)
 
 ---
 
