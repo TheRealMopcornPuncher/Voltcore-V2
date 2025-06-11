@@ -48,3 +48,5 @@ A bill of materials has also been added here outside of the .csv file for conven
 | 7      | (ONLY ONE OF EACH) 300mm Lead Screw and Lead Screw Nut | Amazon - VICHSAMWY    |           | 1   | $9.99    | [Link](https://www.amazon.com/dp/B0BWYH5ZKG) |
 | 8      | 608RS Ball bearings                                    | Amazon - SHKI         |           | 1   | $6.99    | [Link](https://www.amazon.com/SHKI/dp/B09PKD8QZZ) |
 | 9      | Custom PCB - Voltage Regulator                         | PCBWAY                |           | 1   | est. $30 | [Link](https://www.pcbway.com/) |
+| 10     | 2020 Aluminum Extrusions (200mm)                       | Amazon - VICHSAMWY    |           | 1   | $14.99   | [Link](https://www.amazon.com/European-Standard-Anodized-Aluminum-Extrusion/dp/B09JSNM85H/147-5007961-6940856
+)|
