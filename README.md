@@ -8,6 +8,8 @@ Enjoy!
 
 NOTES: JOURNAL.md is a file required by Highway's submission policy (I believe it is used for metadata). Actual logging/journaling contents are located in the file 'CAPTAINSLOG.md'. Metadata, for reassurance, has also been stored in the 'CAPTAINSLOG.md' file.
 
+FULL CAD ASSEMBLY OF THE DEVICE IS LOCATED HERE: https://drive.google.com/file/d/1qafy4_DIeeeHwEZUQUGFcUI5MaNEcI4D/view?usp=sharing
+
 File titled 'VoltCore Buck Converter v7_2025-06-10.zip' is a collection of every file for the voltage regulator.
 
 File titled 'bom_voltcorev2.csv' is a downloadable list containing the parts needed in this project. (Bill of materials)
